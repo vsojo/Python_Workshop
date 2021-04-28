@@ -1,8 +1,9 @@
 # Introductory Python Workshop
 ## What you need
-This repository contains a guide PDF document and some data files for an Introductory Python Workshop. Please download the PDF, it contains all the necessary information to get started learning Python.
+This repository contains a guide PDF document and some data files for an Introductory Python Workshop. Please **download the PDF**, it contains all the necessary information to get started learning Python, including installation.
+
 -----------
-## Python with Jupyter and Python refresher
+## Alternative: Python with Jupyter and Python refresher
 In the compressed file `JupyIntro_PythonRefresher.tar.gz`, there is an introduction to Jupyter Notebooks, and a Python refresher/summary/cheatsheet. The Python refresher is not meant as a full introductory document - please follow the PDF if you have zero or very little knowledge of Python.
 
 :construction:This workshop is always under development.:construction:<br/>
